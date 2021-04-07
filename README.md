@@ -13,8 +13,8 @@ I'm learning at the moment **Powershell, PowerCLI, Docker, AzureCLI and Powershe
 
 [![Microsoft Outlook Badge](https://img.shields.io/badge/-julianoalvesbr@live.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:julianoalvesbr@live.com)](mailto:julianoalvesbr@live.com)
 [![GitHub Badge](https://img.shields.io/badge/-julianoabr-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/julianoabr/)](https://github.com/julianoabr/)
-[![Linkedin Badge](https://img.shields.io/badge/-julianoabr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianoabr/)](https://www.linkedin.com/in/julianoabr/)
-[![Gmail Badge](https://img.shields.io/badge/-psjabr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psjabr@gmail.com)](mailto:psjabr@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-julianoabr-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianoabr/)](https://www.linkedin.com/in/julianoabr/)
+[![Gmail Badge](https://img.shields.io/badge/-psjabr@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:psjabr@gmail.com)](mailto:psjabr@gmail.com)
 
 
 ## 🚀💻 Operational Systems, Cloud and Tools
@@ -35,3 +35,4 @@ I'm learning at the moment **Powershell, PowerCLI, Docker, AzureCLI and Powershe
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=julianoabr&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoabr&hide=TeX&layout=compact)
+
