@@ -23,12 +23,12 @@ I'm learning at the moment **Powershell, PowerCLI, Docker, AzureCLI and Powershe
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 
 ## ⚡ GitHub Stats
