@@ -20,6 +20,7 @@ I'm learning at the moment **Powershell, PowerCLI, Docker, AzureCLI and Powershe
 ## 🚀💻 Operational Systems, Cloud and Tools
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +30,7 @@ I'm learning at the moment **Powershell, PowerCLI, Docker, AzureCLI and Powershe
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-
+![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 
 ## ⚡ GitHub Stats
 
