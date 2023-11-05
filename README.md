@@ -17,7 +17,6 @@ I'm learning at the moment **Powershell, PowerCLI, Docker, AzureCLI and Powershe
 [![Gmail Badge](https://img.shields.io/badge/-psjabr@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:psjabr@gmail.com)](mailto:psjabr@gmail.com)
 
 <form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post">
-<!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
 <input type="hidden" name="currency" value="BRL" />
 <input type="hidden" name="receiverEmail" value="fixnetwork@live.com" />
 <input type="hidden" name="iot" value="button" />
