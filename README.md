@@ -18,15 +18,7 @@ I'm learning at the moment **Powershell, PowerCLI, Docker, AzureCLI and Powershe
 
 ### Ajude-nos a continuar fazendo scripts para agilizar o seu dia a dia :moneybag: 
 
-<!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
-<form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post">
-<!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
-<input type="hidden" name="currency" value="BRL" />
-<input type="hidden" name="receiverEmail" value="fixnetwork@live.com" />
-<input type="hidden" name="iot" value="button" />
-<input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/209x48-doar-laranja-assina.gif" name="submit" alt="Pague com PagBank - é rápido, grátis e seguro!" />
-</form>
-<!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+[Link para Doar pelo PagBank](https://pag.ae/7ZXtRCjjq)
 
 ## 🚀💻 Operational Systems, Cloud and Tools
 
