@@ -16,8 +16,7 @@ I'm learning at the moment **Powershell, PowerCLI, Docker, AzureCLI and Powershe
 [![Linkedin Badge](https://img.shields.io/badge/-julianoabr-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianoabr/)](https://www.linkedin.com/in/julianoabr/)
 [![Gmail Badge](https://img.shields.io/badge/-psjabr@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:psjabr@gmail.com)](mailto:psjabr@gmail.com)
 
-
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+:moneybag:
 
 ## 🚀💻 Operational Systems, Cloud and Tools
 
