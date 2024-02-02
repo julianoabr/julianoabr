@@ -15,6 +15,7 @@ I'm learning at the moment **Powershell, PowerCLI, Docker, AzureCLI and Powershe
 [![GitHub Badge](https://img.shields.io/badge/-julianoabr-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/julianoabr/)](https://github.com/julianoabr/)
 [![Linkedin Badge](https://img.shields.io/badge/-julianoabr-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianoabr/)](https://www.linkedin.com/in/julianoabr/)
 [![Gmail Badge](https://img.shields.io/badge/-psjabr@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:psjabr@gmail.com)](mailto:psjabr@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-powershell_tips-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/powershell_tips/](https://twitter.com/powershell_tips/)
 
 ### Ajude-nos a continuar fazendo scripts para automatizar e agilizar as tarefas do dia a dia em sua empresa, escola, hospital :moneybag: 
 
