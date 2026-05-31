@@ -39,9 +39,8 @@ Doe com PAGBANK: :money_with_wings:
 
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=julianoabr&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoabr&hide=TeX&layout=compact)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianoabr)](https://github.com/anuraghazra/github-readme-stats)
+[![JulianoABR's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianoabr)](https://github.com/anuraghazra/github-readme-stats)
 
 
